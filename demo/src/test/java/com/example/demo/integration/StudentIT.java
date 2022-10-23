@@ -101,10 +101,11 @@ public class StudentIT {
                 .getContentAsString();
 
         System.out.println(contentAsString);
-        /*List<Student> students = objectMapper.readValue(
-                contentAsString,
-                new TypeReference<List<Student>>(){}
+        List<Student> students = objectMapper.readValue(
+               contentAsString,
+               new TypeReference<List<Student>>(){}
         );
+
 
         long id = students.stream()
                 .filter(s -> s.getEmail().equals(student.getEmail()))
@@ -122,7 +123,7 @@ public class StudentIT {
         // then
         resultActions.andExpect(status().isOk());
         boolean exists = studentRepository.existsById(id);
-        assertThat(exists).isFalse();*/
+        assertThat(exists).isFalse();
     }
 
 
