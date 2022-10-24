@@ -15,6 +15,7 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.ResultActions;
 import org.springframework.util.StringUtils;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 import java.util.List;
 
