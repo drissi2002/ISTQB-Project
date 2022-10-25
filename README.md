@@ -2,7 +2,7 @@
 Experiment Software Quality, Testing and Validation 
 
 ## Unit & Integration test :
- - testing tools : ** JUnit ** , ** Mockito **
+ - testing tools : <b> JUnit  ,  Mockito </b>
  Testing elements and methods , as well as interactions between different layers
 ![image](https://user-images.githubusercontent.com/84160502/197419680-4bc4d317-ba81-4ebf-9a8b-3495f7ce820d.png)
 
