@@ -9,7 +9,7 @@ Experiment Software Quality, Testing and Validation
 ## Performance & Load test :
  - <i>testing tools</i> : <b> JMeter </b> <br>
 - <i>task</i> : Testing the application performance under a variety of loads <br>
-- <b><i> Note</i> </b> : the following file : <i> ISTQB Project Test Plan.jmx </i> must be executed independently with the <b> JMeter </b> tool to visualize the performance
+- <b><i> Note</i> </b> : the following file  <i>" ISTQB Project Test Plan.jmx "</i> must be executed independently with the <b> JMeter </b> tool to visualize the performance
 ### Endpoint performance :
 
 ![Performance-1](https://user-images.githubusercontent.com/84160502/197735118-2a4077a4-11d6-43b4-88a5-42de62c1e57d.png)
