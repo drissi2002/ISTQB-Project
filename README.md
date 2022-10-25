@@ -2,12 +2,13 @@
 Experiment Software Quality, Testing and Validation 
 
 ## Unit & Integration test :
- - testing tools : <b> JUnit  ,  Mockito </b> <br>
- Testing elements and methods , as well as interactions between different layers
+ - <i>testing tools</i> : <b> JUnit  ,  Mockito </b> <br>
+ - <i>task</i> : Testing elements and methods , as well as interactions between different layers
 ![image](https://user-images.githubusercontent.com/84160502/197419680-4bc4d317-ba81-4ebf-9a8b-3495f7ce820d.png)
 
 ## Performance & Load test :
-Testing the application performance under a variety of loads 
+ - <i>testing tools</i> : <b> JMeter </b> <br>
+- <i>task</i> : Testing the application performance under a variety of loads 
 ### Endpoint performance :
 
 ![Performance-1](https://user-images.githubusercontent.com/84160502/197735118-2a4077a4-11d6-43b4-88a5-42de62c1e57d.png)
