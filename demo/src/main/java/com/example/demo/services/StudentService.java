@@ -19,7 +19,7 @@ public class StudentService {
         return studentRepository.findAll();
     }
 
-    public void addStudent(Student student) {
+    public Long addStudent(Student student) {
         Boolean existsEmail = studentRepository
                 .selectExistsEmail(student.getEmail());
         if (existsEmail) {
@@ -28,6 +28,8 @@ public class StudentService {
         }
 
         studentRepository.save(student);
+
+        return student.getId();
     }
 
     public void deleteStudent(Long studentId) {
