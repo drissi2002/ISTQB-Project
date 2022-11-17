@@ -1,5 +1,5 @@
 
-# ISTQB-Part
+# ISTQB-Project
 Experiment Software Quality, Testing and Validation with "demo" microservice
 
 ## Unit & Integration test :
