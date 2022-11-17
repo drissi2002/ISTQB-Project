@@ -1,5 +1,6 @@
-# ISTQB-Project
-Experiment Software Quality, Testing and Validation 
+
+# ISTQB-Part
+Experiment Software Quality, Testing and Validation with "ms-billing" microservice
 
 ## Unit & Integration test :
  - <i>testing tools</i> : <b> JUnit  ,  Mockito </b> <br>
