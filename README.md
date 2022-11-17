@@ -1,4 +1,9 @@
 
+# SOC-part
+Implimenting Microservices architecture in a Student's bill management solution 
+## Architecture Preview :
+![image](https://user-images.githubusercontent.com/84160502/202567075-3ee12736-e4c0-43c6-9fb8-0348db286342.png)
+
 # ISTQB-Part
 Experiment Software Quality, Testing and Validation with "ms-billing" microservice
 
